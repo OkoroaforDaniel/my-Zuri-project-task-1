@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/my-Zuri-project-task-1/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/my-Zuri-project-task-1/static/js/main.510c3f9a.chunk.js",
-    "main.js.map": "/my-Zuri-project-task-1/static/js/main.510c3f9a.chunk.js.map",
+    "main.css": "/my-Zuri-project-task-1/static/css/main.dd082543.chunk.css",
+    "main.js": "/my-Zuri-project-task-1/static/js/main.acc72aa1.chunk.js",
+    "main.js.map": "/my-Zuri-project-task-1/static/js/main.acc72aa1.chunk.js.map",
     "runtime-main.js": "/my-Zuri-project-task-1/static/js/runtime-main.f6a31af2.js",
     "runtime-main.js.map": "/my-Zuri-project-task-1/static/js/runtime-main.f6a31af2.js.map",
     "static/js/2.0b3bd9e7.chunk.js": "/my-Zuri-project-task-1/static/js/2.0b3bd9e7.chunk.js",
@@ -10,14 +10,13 @@
     "static/js/3.c10b1750.chunk.js": "/my-Zuri-project-task-1/static/js/3.c10b1750.chunk.js",
     "static/js/3.c10b1750.chunk.js.map": "/my-Zuri-project-task-1/static/js/3.c10b1750.chunk.js.map",
     "index.html": "/my-Zuri-project-task-1/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/my-Zuri-project-task-1/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.0b3bd9e7.chunk.js.LICENSE.txt": "/my-Zuri-project-task-1/static/js/2.0b3bd9e7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-Zuri-project-task-1/static/media/logo.6ce24c58.svg"
+    "static/css/main.dd082543.chunk.css.map": "/my-Zuri-project-task-1/static/css/main.dd082543.chunk.css.map",
+    "static/js/2.0b3bd9e7.chunk.js.LICENSE.txt": "/my-Zuri-project-task-1/static/js/2.0b3bd9e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f6a31af2.js",
     "static/js/2.0b3bd9e7.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.510c3f9a.chunk.js"
+    "static/css/main.dd082543.chunk.css",
+    "static/js/main.acc72aa1.chunk.js"
   ]
 }
